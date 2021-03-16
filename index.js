@@ -54,5 +54,4 @@ function createStyleElement() {
     return styleElement;
 }
 
-module.exports = insertCss;
 module.exports.insertCss = insertCss;
